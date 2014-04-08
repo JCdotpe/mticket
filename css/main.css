@@ -1,0 +1,13 @@
+.ui-bar-a, 
+.ui-page-theme-a .ui-bar-inherit, 
+html .ui-bar-a .ui-bar-inherit, 
+html .ui-body-a .ui-bar-inherit, 
+html body .ui-group-theme-a .ui-bar-inherit {
+    background-color: #00B1E1;
+    background-color: rgb(0, 177, 225);
+    border-color: #009ec9;
+    color: #FFFFFF;
+    font-weight: 400;
+    text-shadow: none;    
+}
+
