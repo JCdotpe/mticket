@@ -11,3 +11,16 @@ html body .ui-group-theme-a .ui-bar-inherit {
     text-shadow: none;    
 }
 
+
+.navbar-default {
+    background-color: #00B1E1;
+    border-color: #009ec9;
+}
+
+.navbar-default a{
+	color: #fff !important;
+}
+
+.navbar-right{
+	padding: 0 15px;
+}
